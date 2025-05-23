@@ -51,6 +51,8 @@ mAP@0.5: 0.995
 mAP@0.5:0.95: 0.892
 
 Trained for up to 130 epochs using AdamW optimizer with augmentation
+
+
 For dataset download:
 https://drive.google.com/file/d/1oSOizswm1wyWbeE7UcHu-PehY1hpmq3O/view?usp=sharing
 
